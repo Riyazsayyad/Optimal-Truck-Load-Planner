@@ -277,7 +277,6 @@ mvn spring-boot:run
 
 Tested on standard hardware (similar to judge machine):
 - **n=22 orders**: Consistently < 800ms ✅
-- **n=25 orders**: < 2 seconds ✅
 - **Correctness**: 100% on all test cases ✅
 
 ## Notes

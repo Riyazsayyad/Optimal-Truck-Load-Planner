@@ -26,7 +26,7 @@ A Spring Boot REST API service that optimizes truck load planning by selecting t
 ### Quick Start
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/Riyazsayyad/Optimal-Truck-Load-Planner.git
 cd Truck-Load-Planner
 docker compose up --build
 ```

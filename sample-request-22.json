@@ -1,0 +1,251 @@
+{
+  "truck": {
+    "id": "truck-123",
+    "max_weight_lbs": 44000,
+    "max_volume_cuft": 3000
+  },
+  "orders": [
+    {
+      "id": "ord-001",
+      "payout_cents": 250000,
+      "weight_lbs": 18000,
+      "volume_cuft": 1200,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-05",
+      "delivery_date": "2025-12-09",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-002",
+      "payout_cents": 180000,
+      "weight_lbs": 12000,
+      "volume_cuft": 900,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-04",
+      "delivery_date": "2025-12-10",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-003",
+      "payout_cents": 320000,
+      "weight_lbs": 30000,
+      "volume_cuft": 1800,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-06",
+      "delivery_date": "2025-12-08",
+      "is_hazmat": true
+    },
+    {
+      "id": "ord-004",
+      "payout_cents": 150000,
+      "weight_lbs": 8000,
+      "volume_cuft": 600,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-05",
+      "delivery_date": "2025-12-09",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-005",
+      "payout_cents": 220000,
+      "weight_lbs": 15000,
+      "volume_cuft": 1100,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-04",
+      "delivery_date": "2025-12-10",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-006",
+      "payout_cents": 190000,
+      "weight_lbs": 13000,
+      "volume_cuft": 950,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-05",
+      "delivery_date": "2025-12-09",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-007",
+      "payout_cents": 280000,
+      "weight_lbs": 20000,
+      "volume_cuft": 1400,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-06",
+      "delivery_date": "2025-12-10",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-008",
+      "payout_cents": 140000,
+      "weight_lbs": 7000,
+      "volume_cuft": 500,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-04",
+      "delivery_date": "2025-12-08",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-009",
+      "payout_cents": 210000,
+      "weight_lbs": 16000,
+      "volume_cuft": 1150,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-05",
+      "delivery_date": "2025-12-09",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-010",
+      "payout_cents": 170000,
+      "weight_lbs": 11000,
+      "volume_cuft": 850,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-06",
+      "delivery_date": "2025-12-10",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-011",
+      "payout_cents": 300000,
+      "weight_lbs": 25000,
+      "volume_cuft": 1600,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-07",
+      "delivery_date": "2025-12-11",
+      "is_hazmat": true
+    },
+    {
+      "id": "ord-012",
+      "payout_cents": 160000,
+      "weight_lbs": 9000,
+      "volume_cuft": 650,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-04",
+      "delivery_date": "2025-12-09",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-013",
+      "payout_cents": 230000,
+      "weight_lbs": 17000,
+      "volume_cuft": 1250,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-05",
+      "delivery_date": "2025-12-10",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-014",
+      "payout_cents": 200000,
+      "weight_lbs": 14000,
+      "volume_cuft": 1000,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-06",
+      "delivery_date": "2025-12-09",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-015",
+      "payout_cents": 130000,
+      "weight_lbs": 6000,
+      "volume_cuft": 450,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-04",
+      "delivery_date": "2025-12-08",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-016",
+      "payout_cents": 240000,
+      "weight_lbs": 19000,
+      "volume_cuft": 1350,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-05",
+      "delivery_date": "2025-12-09",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-017",
+      "payout_cents": 175000,
+      "weight_lbs": 10500,
+      "volume_cuft": 800,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-06",
+      "delivery_date": "2025-12-10",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-018",
+      "payout_cents": 260000,
+      "weight_lbs": 21000,
+      "volume_cuft": 1500,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-07",
+      "delivery_date": "2025-12-11",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-019",
+      "payout_cents": 145000,
+      "weight_lbs": 7500,
+      "volume_cuft": 550,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-04",
+      "delivery_date": "2025-12-08",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-020",
+      "payout_cents": 270000,
+      "weight_lbs": 22000,
+      "volume_cuft": 1550,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-05",
+      "delivery_date": "2025-12-09",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-021",
+      "payout_cents": 185000,
+      "weight_lbs": 12500,
+      "volume_cuft": 920,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-06",
+      "delivery_date": "2025-12-10",
+      "is_hazmat": false
+    },
+    {
+      "id": "ord-022",
+      "payout_cents": 290000,
+      "weight_lbs": 24000,
+      "volume_cuft": 1700,
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-12-07",
+      "delivery_date": "2025-12-11",
+      "is_hazmat": true
+    }
+  ]
+}
